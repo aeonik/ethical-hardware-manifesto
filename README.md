@@ -1,5 +1,3 @@
-# ethical-hardware-manifesto
-
 # The Hardware Ethics Manifesto
 **A Framework for Liberation, Progress, and Resilience**
 
